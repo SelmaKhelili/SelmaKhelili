@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SelmaKhelili
 - 👀 I’m interested in All programming languages
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development at Gomycode!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
