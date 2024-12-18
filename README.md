@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SelmaKhelili
-- 👀 I’m interested in All programming languages
-- 🌱 I’m currently learning Web development at Gomycode!!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in All CS fiels!
+- 🌱 I’m currently learning Mobile development!
+- 💞️ I’m looking to collaborate on unity projects on game jams.
+
 
 <!---
 SelmaKhelili/SelmaKhelili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
