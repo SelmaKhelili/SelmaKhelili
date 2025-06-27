@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SelmaKhelili
-- 👀 I’m interested in All CS fiels!
-- 🌱 I’m currently learning Mobile development!
-- 💞️ I’m looking to collaborate on unity projects on game jams.
+Hi there, I'm Selma!
+I'm passionate about AutoML and how it can simplify and accelerate the process of building machine learning models. I'm also interested in Computer Vision, NLP, and exploring the intersection of AI and privacy. I enjoy working on research projects, experimenting with deep learning models, and constantly learning new approaches to make AI more efficient and accessible.
 
 
 <!---
