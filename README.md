@@ -9,13 +9,13 @@
 </h1>
 
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Enthousiaste;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
 
 <br/>
 
 <!-- Glowing Badges -->
-<img src="https://img.shields.io/badge/NLP-Expert-D946EF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arabic_LLMs-Specialist-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-Enthousiaste-D946EF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arabic_LLMs-Trainer-9333EA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG_Systems-Builder-7C3AED?style=for-the-badge" />
 
 <br/><br/>
