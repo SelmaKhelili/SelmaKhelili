@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Student+%7C+NLP+Enthousiate;Building+Arabic+LLMs+%26+RAG+Systems; Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Student+%7C+NLP+Enthousiate;Building+Arabic+LLMs+%26+RAG+Systems;Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
 </h1>
 
 <p>
