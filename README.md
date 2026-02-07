@@ -42,7 +42,7 @@ class SelmaKhelili:
         print("Let's build intelligent systems that make a real impact!")
 ```
 
-## 🎯 Core Expertise
+## 🎯 Core Interests
 
 <table>
   <tr>
