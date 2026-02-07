@@ -56,22 +56,27 @@ class SelmaKhelili:
     def say_hi(self):
         print("Let's build intelligent systems that make a real impact!")
 ```
-
 ## 🎯 Core Interests
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🤖 NLP & LLMs</h3>
       <p>Fine-tuning Arabic language models<br/>RAG system architecture<br/>Intent classification & semantic search</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3>🗣️ Speech Processing</h3>
       <p>Arabic speech recognition<br/>Voice activity detection<br/>Audio feature extraction</p>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h3>👁️ Computer Vision</h3>
       <p>Image classification<br/>Object detection<br/>Visual feature extraction</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 Robotics & Embedded Systems</h3>
+      <p>Arduino / Raspberry Pi projects<br/>Sensor integration & IoT<br/>Exploring embedded AI systems (like Bemo Adventure!)</p>
     </td>
   </tr>
 </table>
