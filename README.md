@@ -5,11 +5,11 @@
 
 <!-- Name in White -->
 <h1 style="color: white; font-size: 60px; margin-top: -50px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Selma+Khelili" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Selma+Khelili" alt="Name" style="pointer-events: none; cursor: default;" />
 </h1>
 
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
 
 <br/>
 
