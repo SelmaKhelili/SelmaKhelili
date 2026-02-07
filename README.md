@@ -42,7 +42,7 @@ class SelmaKhelili:
         print("Let's build intelligent systems that make a real impact!")
 ```
 
-## 🎯 Core Interests
+## 🎯 Core Expertise
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ class SelmaKhelili:
 
 ### 🩺 [SAI – AI Smoking Cessation Assistant](https://github.com/SelmaKhelili/Smoking-cessation-Algerian-LLM_Rag)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelmaKhelili&repo=Smoking-cessation-Algerian-LLM_Rag&theme=tokyonight)](https://github.com/SelmaKhelili/Smoking-cessation-Algerian-LLM_Rag)
+**[➡️ View Full Project](https://github.com/SelmaKhelili/Smoking-cessation-Algerian-LLM_Rag)**
 
 </div>
 
@@ -110,14 +110,11 @@ class SelmaKhelili:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SelmaKhelili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelmaKhelili&layout=compact&langs_count=8&theme=tokyonight"/>
+![Selma's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelmaKhelili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelmaKhelili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelmaKhelili&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SelmaKhelili&theme=tokyonight&hide_border=true)
 
 </div>
 
