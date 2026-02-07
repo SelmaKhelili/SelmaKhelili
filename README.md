@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Engineer+%7C+NLP+Specialist;Building+Arabic+LLMs+%26+RAG+Systems;Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Student+%7C+NLP+Enthousiate;Building+Arabic+LLMs+%26+RAG+Systems; Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -110,11 +110,15 @@ class SelmaKhelili:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SelmaKhelili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="Selma's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelmaKhelili&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SelmaKhelili&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+**💻 Languages & Tools I Work With**
+
+Python • PyTorch • HuggingFace • Flutter • Dart • Flask • PostgreSQL • C++ • Go • JavaScript
 
 </div>
 
