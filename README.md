@@ -14,17 +14,17 @@
 <br/>
 
 <!-- Glowing Badges -->
-<img src="https://img.shields.io/badge/NLP-Enthousiaste-D946EF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arabic_LLMs-Trainer-9333EA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_Systems-Builder-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-Exploring-D946EF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arabic_LLMs-Experimenting-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Systems-Building-7C3AED?style=for-the-badge" />
 
 <br/><br/>
 
 <p>
   <strong>🎓 AI Student at ENSIA</strong><br/>
-  🧠 Specializing in NLP, Speech Processing & Computer Vision<br/>
-  🚀 Building real-world AI systems with <strong>Arabic LLMs</strong> and <strong>RAG</strong>
-</p>
+  🧠 Interested in NLP, Speech Processing & Computer Vision<br/>
+  🚀 Building and experimenting with AI systems, including Arabic LLMs and RAG
+</p>>
 
 <!-- Social Links -->
 <p>
