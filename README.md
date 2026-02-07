@@ -50,7 +50,7 @@ class SelmaKhelili:
     def __init__(self):
         self.role = "Aspiring AI Engineer"
         self.focus = ["Arabic NLP", "LLM Fine-tuning", "RAG Systems", "Speech Processing", "Computer Vision", "Robotics"]
-        self.current_project = "[SAI - AI Smoking Cessation Assistant](https://github.com/SelmaKhelili/sai-project)"
+        self.current_project = "SAI - AI Smoking Cessation Assistant"
         self.learning = ["Embeded AI systems", "Advanced Rag Architectures", "LLM Optimization"]
     
     def say_hi(self):
