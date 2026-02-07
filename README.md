@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=200&amp;section=header&amp;text=Selma%20Khelili&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Building%20Arabic%20LLMs%20%26%20RAG%20Systems&amp;descAlignY=58&amp;descSize=18" />
+<!-- Animated Typing Header with Pink/Purple Theme -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Engineer+%7C+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
 
 <p>
   <strong>🎓 AI Student at ENSIA</strong><br/>
