@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Enthousiaste;Building+smart+AI+systems;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=Aspiring+AI+Engineer+|+NLP+Enthousiaste;Building+smart+AI+systems;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
 
 <br/>
 
@@ -48,16 +48,16 @@
 ```python
 class SelmaKhelili:
     def __init__(self):
-        self.role = "AI Engineer & NLP Specialist"
-        self.focus = ["Arabic NLP", "LLM Fine-tuning", "RAG Systems", "Speech Processing"]
-        self.current_project = "SAI - AI Smoking Cessation Assistant"
-        self.learning = ["Advanced RAG Architectures", "Multimodal AI", "LLM Optimization"]
+        self.role = "Aspiring AI Engineer"
+        self.focus = ["Arabic NLP", "LLM Fine-tuning", "RAG Systems", "Speech Processing", "Computer Vision", "Robotics"]
+        self.current_project = "[SAI - AI Smoking Cessation Assistant](https://github.com/SelmaKhelili/sai-project)"
+        self.learning = ["Embeded AI systems", "Advanced Rag Architectures", "LLM Optimization"]
     
     def say_hi(self):
         print("Let's build intelligent systems that make a real impact!")
 ```
 
-## 🎯 Core Expertise
+## 🎯 Core Interests
 
 <table>
   <tr>
