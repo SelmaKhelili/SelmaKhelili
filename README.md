@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=180&section=header&fontSize=0" />
+<!-- Pink/Purple Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,20,24,28&height=200&section=header&fontSize=0" />
+
+<!-- Name in White -->
+<h1 style="color: white; font-size: 60px; margin-top: -50px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=60&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Selma+Khelili" alt="Name" />
+</h1>
 
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Engineer+%7C+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
 
 <br/>
 
