@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Enthousiaste;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=700&height=60&lines=AI+Engineer+|+NLP+Enthousiaste;Building+smart+AI+%26+systems;Turning+Research+into+Products" alt="Typing SVG" style="pointer-events: none; cursor: default;" />
 
 <br/>
 
