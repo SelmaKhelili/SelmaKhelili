@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Student+%7C+NLP+Enthousiate;Building+Arabic+LLMs+%26+RAG+Systems;Turning+AI+Research+into+Real+Products" alt="Typing SVG" />
-</h1>
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Selma%20Khelili&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Arabic%20LLMs%20%26%20RAG%20Systems&descAlignY=58&descSize=18" />
 
 <p>
   <strong>🎓 AI Student at ENSIA</strong><br/>
