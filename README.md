@@ -1,7 +1,19 @@
 <div align="center">
 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=180&section=header&fontSize=0" />
+
 <!-- Animated Typing Header with Pink/Purple Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Engineer+%7C+NLP+Enthousiaste;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Selma+Khelili;AI+Engineer+%7C+NLP+Specialist;Building+Arabic+LLMs+%26+RAG;Turning+Research+into+Products" alt="Typing SVG" />
+
+<br/>
+
+<!-- Glowing Badges -->
+<img src="https://img.shields.io/badge/NLP-Expert-D946EF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arabic_LLMs-Specialist-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Systems-Builder-7C3AED?style=for-the-badge" />
+
+<br/><br/>
 
 <p>
   <strong>🎓 AI Student at ENSIA</strong><br/>
